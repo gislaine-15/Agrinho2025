@@ -1,0 +1,13 @@
+.titulo2{
+    color: rgb(26, 100, 57);
+    justify-content: center;
+    display: flex;
+}
+ .body2{
+    background-color: rgb(110, 163, 66);
+ }
+ .texto2 {
+    color: rgb(16, 58, 13);
+    justify-content: center;
+    display: flex;
+     }
